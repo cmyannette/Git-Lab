@@ -62,10 +62,7 @@ def is_prime(n):
 
 def add_numbers(a, b):
     """Returns the sum of two numbers."""
-<<<<<<< HEAD
     return a + b
 def multiply_numbers(a, b):
     """Returns the sum of two numbers."""
-=======
->>>>>>> parent of ca4eaad (Deleted git_lab.py)
     return a * b
